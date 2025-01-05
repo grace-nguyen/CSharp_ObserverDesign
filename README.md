@@ -2,9 +2,6 @@
 ## Problem: 
 You have an application that needs to update multiple user interface elements when a data model changes.
 
-## aaa:
-bbbbbbbb. 
-
 ### Current Code:
 
 ```csharp
@@ -20,4 +17,7 @@ public class UIElement //Screen
         // Update UI based on model data
     }
 }
+```
 
+## aaa:
+bbbbbbbb. 
