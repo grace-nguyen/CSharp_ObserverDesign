@@ -17,5 +17,5 @@ public class UIElement //Screen
         // Update UI based on model data
     }
 }
-##Task: 
+## Task: 
 Refactor the DataModel and UIElement classes to use the Observer pattern, where UIElement observes changes in DataModel.
