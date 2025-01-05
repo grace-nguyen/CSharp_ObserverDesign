@@ -4,7 +4,7 @@ You have an application that needs to update multiple user interface elements wh
 
 ### Current Code:
 
-```csharp
+` ```csharp
 public class DataModel
 {
     public string Data { get; set; }
@@ -17,6 +17,6 @@ public class UIElement //Screen
         // Update UI based on model data
     }
 }
-`
+``` `
 ## Task: 
 Refactor the DataModel and UIElement classes to use the Observer pattern, where UIElement observes changes in DataModel.
