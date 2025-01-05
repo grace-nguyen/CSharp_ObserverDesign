@@ -2,6 +2,9 @@
 ## Problem: 
 You have an application that needs to update multiple user interface elements when a data model changes.
 
+## aaa:
+bbbbbbbb. 
+
 ### Current Code:
 
 ```csharp
@@ -17,7 +20,4 @@ public class UIElement //Screen
         // Update UI based on model data
     }
 }
-`
 
-## Task:
-Refactor the DataModel and UIElement classes to use the Observer pattern, where UIElement observes changes in DataModel.  ```
