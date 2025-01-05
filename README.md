@@ -4,7 +4,7 @@ You have an application that needs to update multiple user interface elements wh
 
 ### Current Code:
 
-` ```csharp
+```csharp
 public class DataModel
 {
     public string Data { get; set; }
